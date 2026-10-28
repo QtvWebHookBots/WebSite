@@ -1,0 +1,4 @@
+Flask>=3.0,<4
+yfinance>=0.2.65,<2
+pandas>=2.2,<4
+numpy>=1.26,<3
