@@ -1,0 +1,247 @@
+{
+  "portfolios": [
+    {
+      "id": "quality",
+      "name": "Grandes capitalisations diversifiees",
+      "description": "Technologie, sante, finance et energie.",
+      "positions": [
+        {
+          "ticker": "AAPL",
+          "name": "Apple",
+          "weight": 25
+        },
+        {
+          "ticker": "MSFT",
+          "name": "Microsoft",
+          "weight": 25
+        },
+        {
+          "ticker": "JNJ",
+          "name": "Johnson & Johnson",
+          "weight": 20
+        },
+        {
+          "ticker": "JPM",
+          "name": "JPMorgan Chase",
+          "weight": 15
+        },
+        {
+          "ticker": "XOM",
+          "name": "Exxon Mobil",
+          "weight": 15
+        }
+      ],
+      "transactions": [
+        {
+          "date": "2024-01-02",
+          "action": "BUY",
+          "ticker": "AAPL",
+          "name": "Apple",
+          "quantity": 135.135135,
+          "price": 185,
+          "fees": 0,
+          "comment": "Constitution initiale"
+        },
+        {
+          "date": "2024-01-02",
+          "action": "BUY",
+          "ticker": "MSFT",
+          "name": "Microsoft",
+          "quantity": 66.666667,
+          "price": 375,
+          "fees": 0,
+          "comment": "Constitution initiale"
+        },
+        {
+          "date": "2024-01-02",
+          "action": "BUY",
+          "ticker": "JNJ",
+          "name": "Johnson & Johnson",
+          "quantity": 129.032258,
+          "price": 155,
+          "fees": 0,
+          "comment": "Constitution initiale"
+        },
+        {
+          "date": "2024-01-02",
+          "action": "BUY",
+          "ticker": "JPM",
+          "name": "JPMorgan Chase",
+          "quantity": 88.235294,
+          "price": 170,
+          "fees": 0,
+          "comment": "Constitution initiale"
+        },
+        {
+          "date": "2024-01-02",
+          "action": "BUY",
+          "ticker": "XOM",
+          "name": "Exxon Mobil",
+          "quantity": 142.857143,
+          "price": 105,
+          "fees": 0,
+          "comment": "Constitution initiale"
+        }
+      ],
+      "inception_date": "2024-01-02"
+    },
+    {
+      "id": "tech",
+      "name": "Technologie et intelligence artificielle",
+      "description": "Technologies et grandes plateformes.",
+      "positions": [
+        {
+          "ticker": "MSFT",
+          "name": "Microsoft",
+          "weight": 30
+        },
+        {
+          "ticker": "NVDA",
+          "name": "NVIDIA",
+          "weight": 30
+        },
+        {
+          "ticker": "GOOGL",
+          "name": "Alphabet",
+          "weight": 20
+        },
+        {
+          "ticker": "AMZN",
+          "name": "Amazon",
+          "weight": 20
+        }
+      ],
+      "transactions": [
+        {
+          "date": "2024-01-02",
+          "action": "BUY",
+          "ticker": "MSFT",
+          "name": "Microsoft",
+          "quantity": 80.0,
+          "price": 375,
+          "fees": 0,
+          "comment": "Constitution initiale"
+        },
+        {
+          "date": "2024-01-02",
+          "action": "BUY",
+          "ticker": "NVDA",
+          "name": "NVIDIA",
+          "quantity": 612.244898,
+          "price": 49,
+          "fees": 0,
+          "comment": "Constitution initiale"
+        },
+        {
+          "date": "2024-01-02",
+          "action": "BUY",
+          "ticker": "GOOGL",
+          "name": "Alphabet",
+          "quantity": 144.927536,
+          "price": 138,
+          "fees": 0,
+          "comment": "Constitution initiale"
+        },
+        {
+          "date": "2024-01-02",
+          "action": "BUY",
+          "ticker": "AMZN",
+          "name": "Amazon",
+          "quantity": 133.333333,
+          "price": 150,
+          "fees": 0,
+          "comment": "Constitution initiale"
+        }
+      ],
+      "inception_date": "2024-01-02"
+    },
+    {
+      "id": "health",
+      "name": "Sante, industrie et finance",
+      "description": "Sante, automobile et services financiers.",
+      "positions": [
+        {
+          "ticker": "LLY",
+          "name": "Eli Lilly",
+          "weight": 30
+        },
+        {
+          "ticker": "PFE",
+          "name": "Pfizer",
+          "weight": 20
+        },
+        {
+          "ticker": "TM",
+          "name": "Toyota Motor",
+          "weight": 25
+        },
+        {
+          "ticker": "JPM",
+          "name": "JPMorgan Chase",
+          "weight": 25
+        }
+      ],
+      "transactions": [
+        {
+          "date": "2024-01-02",
+          "action": "BUY",
+          "ticker": "LLY",
+          "name": "Eli Lilly",
+          "quantity": 51.724138,
+          "price": 580,
+          "fees": 0,
+          "comment": "Constitution initiale"
+        },
+        {
+          "date": "2024-01-02",
+          "action": "BUY",
+          "ticker": "PFE",
+          "name": "Pfizer",
+          "quantity": 689.655172,
+          "price": 29,
+          "fees": 0,
+          "comment": "Constitution initiale"
+        },
+        {
+          "date": "2024-01-02",
+          "action": "BUY",
+          "ticker": "TM",
+          "name": "Toyota Motor",
+          "quantity": 135.135135,
+          "price": 185,
+          "fees": 0,
+          "comment": "Constitution initiale"
+        },
+        {
+          "date": "2024-01-02",
+          "action": "BUY",
+          "ticker": "JPM",
+          "name": "JPMorgan Chase",
+          "quantity": 147.058824,
+          "price": 170,
+          "fees": 0,
+          "comment": "Constitution initiale"
+        }
+      ],
+      "inception_date": "2024-01-02"
+    }
+  ],
+  "articles": [
+    {
+      "id": "bienvenue",
+      "title": "Bienvenue sur MarketPort",
+      "summary": "Presentation de la demarche et des principes de gestion.",
+      "body": "MarketPort presente des portefeuilles modeles, leur historique et les mouvements de gestion publies. Les contenus sont informatifs et ne constituent pas un conseil en investissement.",
+      "date": "2026-11-17",
+      "published": true,
+      "portfolio_ids": [],
+      "tickers": [],
+      "tags": [
+        "Analyse"
+      ],
+      "body_html": "<p>MarketPort presente des portefeuilles modeles, leur historique et les mouvements de gestion publies. Les contenus sont informatifs et ne constituent pas un conseil en investissement.</p>",
+      "subtitle": "",
+      "cover_image": ""
+    }
+  ]
+}
